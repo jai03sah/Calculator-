@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jai03sah
+- 👋 Hi, I’m jai prakash
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking for internship
